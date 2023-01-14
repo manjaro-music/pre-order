@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pre-order/static/css/main.4bd94be8.css",
+    "main.js": "/pre-order/static/js/main.a01450e9.js",
+    "static/media/new_york_oder_delbrueck.jpg": "/pre-order/static/media/new_york_oder_delbrueck.dced4a939f44239347f9.jpg",
+    "static/media/Manjaro_logo_2_2.png": "/pre-order/static/media/Manjaro_logo_2_2.20e9f94ddc418c8c1278.png",
+    "static/media/zaehne.jpg": "/pre-order/static/media/zaehne.307e2991fe4af3780fe6.jpg",
+    "static/media/tinder.JPG": "/pre-order/static/media/tinder.d8d5f4c93be213904984.JPG",
+    "static/media/disco_bass.jpg": "/pre-order/static/media/disco_bass.e96ccb221e0d782ea7e2.jpg",
+    "static/media/ich_kann_noch_fahren.jpg": "/pre-order/static/media/ich_kann_noch_fahren.b3e63bf15132e181c52a.jpg",
+    "static/media/jake.jpg": "/pre-order/static/media/jake.af203202a325daf7cf1e.jpg",
+    "static/media/spinner.svg": "/pre-order/static/media/spinner.201b47b15a0846222c0f6ce991482ddf.svg",
+    "index.html": "/pre-order/index.html",
+    "main.4bd94be8.css.map": "/pre-order/static/css/main.4bd94be8.css.map",
+    "main.a01450e9.js.map": "/pre-order/static/js/main.a01450e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd94be8.css",
+    "static/js/main.a01450e9.js"
+  ]
+}
